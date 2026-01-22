@@ -12,7 +12,7 @@ const Home = () => {
       <div className="home-content">
         {/* Left side */}
         <div className="left-column">
-          <h1>Paradise Nursery</h1>
+          <h1>Welcome to Paradise Nursery</h1>
 
           <Link to="/plants">
             <button className="get-started-button">Get Started</button>
